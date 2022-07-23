@@ -3,9 +3,9 @@
 #### Esse é o repositório de um jogo de Memória, na qual vamos fazer um jogo da memória com a temática do Game Valorant!
 
 ## Os requisitos são:
-HTML básico
-CSS básico
-JavaScript básico
+HTML básico;
+CSS básico;
+JavaScript básico;
 
 Exemplo:
 
